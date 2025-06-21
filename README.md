@@ -8,14 +8,6 @@ Este projeto demonstra a criação de uma aplicação de chat completa, desde a 
 
 ---
 
-## 📸 Screenshots
-
-*(Recomendação: Adicione aqui um GIF ou screenshots do assistente em ação!)*
-
-![Screenshot da Aplicação](https://via.placeholder.com/800x450.png?text=Adicione+um+screenshot+aqui)
-
----
-
 ## ✨ Funcionalidades Principais
 
 -   **🧠 Memória de Conversa:** O assistente lembra do contexto da conversa para responder perguntas de acompanhamento de forma coerente.
